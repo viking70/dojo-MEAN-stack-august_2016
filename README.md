@@ -1,7 +1,7 @@
 # dojo-MEAN-stack-august_2016
 
 ###Our goals: Mastering these skills so we can make a contribution.
-           We shun perfection, and strive to do things well.
+           We shun perfection and strive to do things well.
            Get help when you need it: Don't let embarassement get in the way of you
            being the best at something. Remember the Rick Barry/Canyon Barry Story.
 
